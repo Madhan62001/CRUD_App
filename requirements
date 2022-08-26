@@ -1,0 +1,9 @@
+For the above code to be working on your system, you guys would definetly need to import the following packages:
+Flask
+werkzeug
+flask-session
+flask_cors
+pytz
+requests
+flask_pymongo
+dnspython
